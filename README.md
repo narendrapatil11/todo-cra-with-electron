@@ -35,7 +35,7 @@ Your app is ready to be deployed!
 Runs the app in the development mode.\
 It will Open window to application view
 
-### electron:build
+### `electron:build`
 
 Builds the app for windows production to the `dist` folder.\
 It correctly create the executable bundles for production mode and optimizes the build for the best performance.
